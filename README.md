@@ -1,5 +1,6 @@
 # MyReads
 ---
+View **[live version here](https://carlotapearl.github.io/Udacity-FEND-Myreads-app/#/)**.
 
 ## Project Purpose:
 
